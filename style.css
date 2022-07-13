@@ -1,0 +1,20 @@
+.header{
+    background-color:yellow;
+    display:flex;
+    justify-content:space-between;
+
+}
+.grid{
+    background-color: green;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space;
+}
+
+body{
+    background-color: #808080;
+}
+h1 {
+    color:#FFFFFF
+}
+
